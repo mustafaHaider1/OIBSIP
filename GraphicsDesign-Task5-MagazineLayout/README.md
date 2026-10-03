@@ -46,5 +46,6 @@ To design a multi-page magazine layout that demonstrates consistent print-media 
 - Optional page preview PNG files
 
 ### Created By
-[Your Full Name]  
+Mustafa-Haider
+
 Graphics Design Intern — Oasis Infobyte
