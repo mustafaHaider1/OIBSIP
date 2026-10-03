@@ -1,19 +1,19 @@
 # Task 3 — Business Card Design
 
-## Oasis Infobyte Graphics Design Internship
+# Oasis Infobyte Graphics Design Internship
 
-### Project Title
-NOVA BYTE Double-Sided Business Card
+# Project Title
+ Double-Sided Business Card
 
-### Objective
+# Objective
 To create a professional double-sided business card demonstrating typography, whitespace, print layout principles, and consistent brand identity.
 
-### Tools Used
+# Tools Used
 - Canva
 
-### Card Details
+# Card Details
 **Front Side**
-- NOVA BYTE company logo
+- Company logo
 - Person's full name
 - Job title
 
@@ -23,28 +23,28 @@ To create a professional double-sided business card demonstrating typography, wh
 - Website
 - Social-media handles
 
-### Design Features
+# Design Features
 - Standard business card size: 85 mm × 55 mm
 - Double-sided layout
 - Maximum of two font families
 - Clean and balanced whitespace
-- Consistent NOVA BYTE logo, colours, and typography
+- Consistent logo, colours, and typography
 - 3 mm bleed considered for print readiness
 - Print-ready PDF export
 - PNG preview export
 
-### Brand Colours
+# Brand Colours
 - Dark Navy: #102A43
 - Bright Cyan: #17BEBB
 - White: #FFFFFF
 - Light Grey: #F5FAFF
 
-### Deliverables
+# Deliverables
 - Print-ready business card PDF
 - Front-side PNG preview
 - Back-side PNG preview
 - Combined business card preview PNG
 
-### Created By
-[Your Full Name]  
+# Created By
+Mustafa-Haider  
 Graphics Design Intern — Oasis Infobyte
