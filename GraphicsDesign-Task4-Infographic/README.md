@@ -43,5 +43,5 @@ To create a clear and visually engaging infographic that presents cyber-safety i
 - Indian Cyber Crime Helpline: 1930
 
 ### Created By
-[Your Full Name]  
+Mustafa-Haider 
 Graphics Design Intern — Oasis Infobyte
